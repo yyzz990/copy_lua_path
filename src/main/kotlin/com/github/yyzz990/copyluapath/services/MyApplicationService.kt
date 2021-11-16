@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yyzz990.copyluapath.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yyzz990.copyluapath.MyBundle
 
 class MyApplicationService {
 
